@@ -6,7 +6,7 @@ Tested on Arch Linux and Ubuntu Gnome 17.04
 
 ![preview](https://raw.githubusercontent.com/darim92/arc-lights-gtk/master/light.png)
 
-Dark mode
+### Dark mode  
 ![preview](https://raw.githubusercontent.com/darim92/arc-lights-gtk/master/dark.png)
 
 ## Install
