@@ -3,6 +3,9 @@ This theme is a combination of Arc and Flatabulous.
 
 Support only for Cinnamon and Gnome-Shell. Tested on Arch Linux with Cinnamon/Gnome and Ubuntu Gnome 17.04. Use with the [Arc-Lights Icon Theme](https://github.com/darim92/arc-lights-icons-cursor) and SF Fonts for best experience.
 
+dependencies:
+- gtk-engine-murrine
+
 ---
 
 ### Preview Light
